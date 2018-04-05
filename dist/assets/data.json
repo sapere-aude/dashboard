@@ -1,0 +1,272 @@
+[
+ {
+   "ID": "US20206",
+   "Description": "Profile and Position Management",
+   "State": "Completed",
+   "Total": 4,
+   "Remaining": 4,
+   "Project": "The Kraken",
+   "Blocked": false
+ },
+ {
+   "ID": "US20208",
+   "Description": "Employee License Management and Validation",
+   "State": "Completed",
+   "Total": 4,
+   "Remaining": 0,
+   "Project": "The Kraken",
+   "Blocked": false
+ },
+ {
+   "ID": "US20213",
+   "Description": "Request Time Off (PTO)",
+   "State": "Completed",
+   "Total": 2,
+   "Remaining": 0,
+   "Project": "Wyvern",
+   "Blocked": false
+ },
+ {
+   "ID": "US20209",
+   "Description": "Trades and Offers",
+   "State": "In-Progress",
+   "Total": 18,
+   "Remaining": 14,
+   "Project": "Wyvern",
+   "Blocked": false
+ },
+ {
+   "ID": "US20211",
+   "Description": "Request to Work",
+   "State": "In-Progress",
+   "Total": 6,
+   "Remaining": 3,
+   "Project": "The Kraken",
+   "Blocked": false
+ },
+ {
+   "ID": "US20212",
+   "Description": "Self Scheduling",
+   "State": "In-Progress",
+   "Total": 20,
+   "Remaining": 20,
+   "Project": "The Kraken",
+   "Blocked": true
+ },
+ {
+   "ID": "US20214",
+   "Description": "ActiveRoster - Regression Testing",
+   "State": "In-Progress",
+   "Total": 7,
+   "Remaining": 7,
+   "Project": "Pegasus",
+   "Blocked": false
+ },
+ {
+   "ID": "US20215",
+   "Description": "Current Staffing Overview",
+   "State": "In-Progress",
+   "Total": 20,
+   "Remaining": 20,
+   "Project": "Wyvern",
+   "Blocked": true
+ },
+ {
+   "ID": "US20221",
+   "Description": "Employee Functionality",
+   "State": "In-Progress",
+   "Total": 38,
+   "Remaining": 30,
+   "Project": "Yeti",
+   "Blocked": false
+ },
+ {
+   "ID": "US20207",
+   "Description": "Qualification Hierarchy",
+   "State": "Defined",
+   "Total": 20,
+   "Remaining": 20,
+   "Project": "Wyvern",
+   "Blocked": false
+ },
+ {
+   "ID": "US20210",
+   "Description": "API Notification Engine and History (Open Shifts)",
+   "State": "Defined",
+   "Total": 5,
+   "Remaining": 5,
+   "Project": "Wyvern",
+   "Blocked": true
+ },
+ {
+   "ID": "US20216",
+   "Description": "Schedule Life-cycle (Phases and Scheduling Passes)",
+   "State": "Defined",
+   "Total": 12,
+   "Remaining": 12,
+   "Project": "Wyvern",
+   "Blocked": false
+ },
+ {
+   "ID": "US20217",
+   "Description": "Minimum Scheduling (Commitments)",
+   "State": "Defined",
+   "Total": 12,
+   "Remaining": 12,
+   "Project": "Wyvern",
+   "Blocked": false
+ },
+ {
+   "ID": "US20218",
+   "Description": "Staffing Recalculation Process (Models)",
+   "State": "Defined",
+   "Total": 14,
+   "Remaining": 14,
+   "Project": "Wyvern",
+   "Blocked": false
+ },
+ {
+   "ID": "US20219",
+   "Description": "Rules Processing",
+   "State": "Defined",
+   "Total": 6,
+   "Remaining": 6,
+   "Project": "Wyvern",
+   "Blocked": false
+ },
+ {
+   "ID": "US20220",
+   "Description": "Retro Calcs",
+   "State": "Defined",
+   "Total": 10,
+   "Remaining": 10,
+   "Project": "Wyvern",
+   "Blocked": false
+ },
+ {
+   "ID": "US20222",
+   "Description": "Supervisor Functionality - General",
+   "State": "Defined",
+   "Total": 22,
+   "Remaining": 22,
+   "Project": "Wyvern",
+   "Blocked": false
+ },
+ {
+   "ID": "US20223",
+   "Description": "Exclusion Times",
+   "State": "Defined",
+   "Total": 4,
+   "Remaining": 4,
+   "Project": "Wyvern",
+   "Blocked": false
+ },
+ {
+   "ID": "US20224",
+   "Description": "Reporting",
+   "State": "Defined",
+   "Total": 18,
+   "Remaining": 18,
+   "Project": "Wyvern",
+   "Blocked": false
+ },
+ {
+   "ID": "US20225",
+   "Description": "Email and Portal Notifications",
+   "State": "Defined",
+   "Total": 4,
+   "Remaining": 4,
+   "Project": "Wyvern",
+   "Blocked": true
+ },
+ {
+   "ID": "US20226",
+   "Description": "Auditing",
+   "State": "Defined",
+   "Total": 4,
+   "Remaining": 4,
+   "Project": "Wyvern",
+   "Blocked": false
+ },
+ {
+   "ID": "US20227",
+   "Description": "Pay Period Close (Manual and Automated)",
+   "State": "Defined",
+   "Total": 16,
+   "Remaining": 16,
+   "Project": "Wyvern",
+   "Blocked": false
+ },
+ {
+   "ID": "US20228",
+   "Description": "External (Interfaces, Downloads, Services)",
+   "State": "Defined",
+   "Total": 10,
+   "Remaining": 10,
+   "Project": "Wyvern",
+   "Blocked": false
+ },
+ {
+   "ID": "US20229",
+   "Description": "Application Tools",
+   "State": "Defined",
+   "Total": 8,
+   "Remaining": 8,
+   "Project": "Wyvern",
+   "Blocked": false
+ },
+ {
+   "ID": "US20242",
+   "Description": "Report Compares",
+   "State": "Defined",
+   "Total": 16,
+   "Remaining": 16,
+   "Project": "Wyvern",
+   "Blocked": false
+ },
+ {
+   "ID": "US20243",
+   "Description": "Calc Compares",
+   "State": "Defined",
+   "Total": 24,
+   "Remaining": 24,
+   "Project": "Wyvern",
+   "Blocked": false
+ },
+ {
+   "ID": "US20265",
+   "Description": "Supervisor Functionality - Actions Section",
+   "State": "Defined",
+   "Total": 22,
+   "Remaining": 22,
+   "Project": "Wyvern",
+   "Blocked": false
+ },
+ {
+   "ID": "US20266",
+   "Description": "Supervisor Functionality - Transaction Grid",
+   "State": "Defined",
+   "Total": 22,
+   "Remaining": 22,
+   "Project": "Wyvern",
+   "Blocked": false
+ },
+ {
+   "ID": "US20267",
+   "Description": "Supervisor Functionality - Transaction List",
+   "State": "Defined",
+   "Total": 22,
+   "Remaining": 22,
+   "Project": "Wyvern",
+   "Blocked": false
+ },
+ {
+   "ID": "US20329",
+   "Description": "Regression Defects Yet To Be Triaged",
+   "State": "Defined",
+   "Total": 0,
+   "Remaining": 0,
+   "Project": "Wyvern",
+   "Blocked": false
+ }
+]
